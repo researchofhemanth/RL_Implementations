@@ -11,12 +11,12 @@ The following graphs represent the variance of the rewards as the no of episodes
 
 VPG with Baseline
 
-[alt text](https://github.com/researchofhemanth/Policy-Gradient-Implementations/blob/master/vpg_baseline.png)
+![alt text](https://github.com/researchofhemanth/Policy-Gradient-Implementations/blob/master/vpg_baseline.png)
 
 Actor Critic
 
-[alt text](https://github.com/researchofhemanth/Policy-Gradient-Implementations/blob/master/actor_critic.png)
+![alt text](https://github.com/researchofhemanth/Policy-Gradient-Implementations/blob/master/actor_critic.png)
 
 Proximal Policy Optimization(PPO)
 
-[alt text](https://github.com/researchofhemanth/Policy-Gradient-Implementations/blob/master/ppo.png)
+![alt text](https://github.com/researchofhemanth/Policy-Gradient-Implementations/blob/master/ppo.png)
