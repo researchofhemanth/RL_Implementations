@@ -7,7 +7,7 @@ These Implementations include the following Algorithms:
 
 All these Algorithms are trained using gym and mujoco environments like CartPole,FrozenLake,HalfCheetah etc
 
-The following graphs represent the variance of the rewards as the no of episodes increase. The no of episodes are represented as X-Axis and Rewards are represented as Y-Axis. These Graphs are from the CartPole Environment.
+The following graphs represent the variance of the rewards as the no of episodes increase. **The no of episodes are represented as X-Axis and Rewards are represented as Y-Axis. These Graphs are from the CartPole Environment.**
 
 VPG with Baseline
 
